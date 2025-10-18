@@ -8,7 +8,7 @@ Linguagem: Python
 
 Vídeo Explicativo
 
-https://youtu.be/QKLM0YZX0Ls?si=6F82sNbiqt9GHmg7
+https://youtu.be/nVCCjDkqpnk?si=mzS0cY4gs-BWZ_NL
 
 ---
 
