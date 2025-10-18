@@ -1,7 +1,7 @@
 TDE 2 - MAPEAMENTO MEMÓRIA CACHE
 
 Disciplina: Performance em Sistemas Ciberfísicos  
-Aluna: Milena Ferraz, Leonardo Pereira, Eduardo Erthal
+Aluna: Milena Ferraz, Leonardo Pereira, Eduardo Erthal, Diego Nunes
 Linguagem: Python  
 
 ---
